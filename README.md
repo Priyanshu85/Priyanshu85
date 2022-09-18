@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **a Ecommerce Website**
 
-- 🤝 I’m looking for help with **ReactJS Documentation.**
-
 - 👨‍💻 All of my projects are available at [priyanshu85.herokuapp.com](priyanshu85.herokuapp.com)
 
 - 💬 Ask me about **WebDev, Coding or any tech related stuff.**
