@@ -39,3 +39,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu85&show_icons=true&locale=en" alt="priyanshu85" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu85&" alt="priyanshu85" /></p>
+
+[![@kitretsu's Holopin board](https://holopin.io/api/user/board?user=kitretsu)](https://holopin.io/@kitretsu)
+
