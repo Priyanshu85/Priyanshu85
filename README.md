@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshu85" alt="priyanshu85" /></a> </p>
 
-- 🔭 I’m currently working on **Dare to Develop Event Website**
+- 🔭 I’m currently working on **Many Webistes like Immigration and other as a part of my Job**
 
-- 🌱 I’m currently learning **JavaScript.**
+- 🌱 I’m currently learning **NodeJs**
 
-- 👯 I’m looking to collaborate on **a Ecommerce Website**
+- 👯 I’m looking to collaborate on **ThreeJs Website**
 
 - 👨‍💻 All of my projects are available at [priyanshu85.herokuapp.com](priyanshu85.herokuapp.com)
 
 - 💬 Ask me about **WebDev, Coding or any tech related stuff.**
 
-- 📫 How to reach me **pg7909290@gmail.com**
+- 📫 How to reach me **guptapriyanshu85@outlook.com**
 
 - 📄 Know about my experiences [http://priyanshu85.herokuapp.com/PriyanshuGupta_InternshalaResume.pdf](http://priyanshu85.herokuapp.com/PriyanshuGupta_InternshalaResume.pdf)
 
