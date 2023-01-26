@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Many Webistes like Immigration and other as a part of my Job**
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👯 I’m looking to collaborate on **ThreeJs Website**
 
-- 👨‍💻 All of my projects are available at [priyanshu85.herokuapp.com](priyanshu85.herokuapp.com)
+- 👨‍💻 All of my projects are available at [kitretsu.me](kitretsu.me)
 
 - 💬 Ask me about **WebDev, Coding or any tech related stuff.**
 
