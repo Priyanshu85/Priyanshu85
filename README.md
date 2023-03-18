@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **ThreeJs Website**
 
-- 👨‍💻 All of my projects are available at [https://kitretsu.me/](kitretsu.me)
+- 👨‍💻 All of my projects are available at [kitretsu.me](https://kitretsu.me/)
 
 - 💬 Ask me about **WebDev, Coding or any tech related stuff.**
 
 - 📫 How to reach me **guptapriyanshu85@outlook.com**
 
-- 📄 Know about my experiences [https://kitretsu.me/PriyanshuGupta_InternshalaResume.pdf](Download Resume)
+- 📄 Know about my experiences [Donwload Resume](https://kitretsu.me/PriyanshuGupta_InternshalaResume.pdf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
