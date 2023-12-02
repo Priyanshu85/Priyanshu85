@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshu85" alt="priyanshu85" /></a> </p>
 
-- 🔭 I’m currently working on **Many Webistes like Immigration and other as a part of my Job**
+- 🔭 I’m currently working on **IDUTE**
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👯 I’m looking to collaborate on **ThreeJs Website**
-
-- 👨‍💻 All of my projects are available at [kitretsu.me](https://kitretsu.me/)
+- 👯 I’m looking to collaborate on **Web3 Project**
 
 - 💬 Ask me about **WebDev, Coding or any tech related stuff.**
 
