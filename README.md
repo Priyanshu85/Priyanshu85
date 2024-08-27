@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshu85" alt="priyanshu85" /></a> </p>
 
-- 🔭 I’m currently working on **IDUTE**
+- 🔭 I’m currently working on **DragWiz**
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **Nodejs, TypeScript and DSA**
 
-- 👯 I’m looking to collaborate on **Web3 Project**
+- 👯 I’m looking to collaborate on **ThreeJs Projects**
 
 - 💬 Ask me about **WebDev, Coding or any tech related stuff.**
 
 - 📫 How to reach me **guptapriyanshu85@outlook.com**
 
-- 📄 Know about my experiences [Donwload Resume](https://kitretsu.me/PriyanshuGupta_InternshalaResume.pdf)
+- 📄 Know about my experiences [Donwload Resume](https://drive.google.com/file/d/1m-4L6ymLwWctcPET9Zbw5K79RjHs981o/view?usp=drivesdk)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
