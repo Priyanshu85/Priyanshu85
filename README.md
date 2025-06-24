@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **guptapriyanshu85@outlook.com**
 
-- 📄 Know about my experiences [Donwload Resume](https://drive.google.com/file/d/1m-4L6ymLwWctcPET9Zbw5K79RjHs981o/view?usp=drivesdk)
+- 📄 Know about my experiences [Donwload Resume](https://drive.google.com/file/d/1ur_YAt8jZDRGHFepqOkTyi8KD5R6-o1n/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
